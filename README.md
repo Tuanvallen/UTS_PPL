@@ -1,5 +1,7 @@
 # 🐍 Python Automated ZigZag Pattern (`AutoZigZag.py`)
 
+# BY:23.83.0951_VALLEN AJI KURNIAWAN
+
 Proyek ini adalah pengembangan dari script Python sederhana yang membuat pola "zigzag" bergerak di konsol. Kami telah mengintegrasikan tiga fitur otomatisasi tak terduga yang bertujuan untuk membuat pola bergerak ini lebih dinamis, adaptif, dan responsif terhadap lingkungan (waktu) dan iterasi.
 
 ## ✨ Fitur Otomasi Kunci
