@@ -56,7 +56,7 @@ Untuk menampilkan proyek dengan baik di GitHub, sertakan *screenshot* yang menun
 
 | Fitur yang Ditampilkan | Screenshot |
 | :---: | :---: |
-| **BUKTI Screenshot** | `[Sertakan tautan atau path gambar di sini, contoh: images/normal_run.png]` |
+| **BUKTI Screenshot** | `Bukti Screnshot.png` |
 
 ---
 
