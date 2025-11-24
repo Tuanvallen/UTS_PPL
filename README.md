@@ -56,7 +56,7 @@ Untuk menampilkan proyek dengan baik di GitHub, sertakan *screenshot* yang menun
 
 | Fitur yang Ditampilkan | Screenshot |
 | :---: | :---: |
-| **BUKTI Screenshot** | `Bukti Screnshot.png` |
+| **BUKTI Screenshot** | `[Bukti Screnshot.png](https://github.com/Tuanvallen/UTS_PPL/blob/main/Bukti%20Screnshot.png)` |
 
 ---
 
